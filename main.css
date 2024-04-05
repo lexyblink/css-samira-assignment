@@ -1,0 +1,35 @@
+/* Author: Samira */
+/*   main.css */
+/* For the body properties */
+body {
+    background-color: lightcyan; /* Set your preferred background color */
+    color: #333; /* Set your preferred text color */
+  }
+  
+  /* For the nav properties */
+  nav {
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+  }
+  
+  /* For the footer properties */
+  footer {
+    text-align: center;
+    margin-right: 200px;
+  }
+  
+  /* For the #memeImage properties */
+  #memeImage {
+    margin-right: 200px;
+  }
+  
+  /* For the header properties */
+  header {
+    text-align: center;
+  }
+
+
+  /*  End of Main.css */
